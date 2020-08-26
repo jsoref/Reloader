@@ -1,0 +1,4 @@
+ignore$
+\.png$
+^\.github/actions/spelling/
+^go\.(?:sum|mod)$
