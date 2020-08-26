@@ -1,0 +1,6 @@
+# _test.go
+testutil.SecretResourceType,.*".*"
+updatedData\s+= ".*"
+"dGVz.*ZXI="
+# URL escaped characters
+\%[0-9A-F]{2}
